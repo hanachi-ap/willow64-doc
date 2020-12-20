@@ -214,8 +214,12 @@
 #### Willow64用のファームウェアをダウンロード
  - Willow64のビルド済みファームウェアを下記のURLからダウンロドしPCへ保存しておきます。
 
-    - 動作確認用 
-    - 標準キーマップ
+   https://github.com/hanachi-ap/willow64-doc
+
+    - [default keymap](https://github.com/hanachi-ap/qmk_firmware/releases/download/rev02-1/willow64_rev2_default.hex)
+    - [組立時のテスト用keymap](https://github.com/hanachi-ap/qmk_firmware/releases/download/rev02-1/willow64_rev2_buildtest.hex)
+    - [作者常用のおすすめ](https://github.com/hanachi-ap/qmk_firmware/releases/download/rev02-1/willow64_rev2_hanachi_custom.hex)
+
 ## 組み立て手順
 
 - [1.ProMicroのUSBコネクタ周辺の補強(オプション)](#1.ProMicroのUSBコネクタ周辺の補強(オプション))
