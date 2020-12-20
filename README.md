@@ -14,12 +14,10 @@ Click here for [Introductory article about Willow 64](https://coal.hatenablog.co
  [Willow64 Build guide](buildguide-willow64-r2.md)  (in Japanese) 
 
 
-
 ## QMK firmware
 
 - GitHub
-
-  https://github.com/hanachi-ap/qmk_firmware/releases/tag/rev02-1
+  https://github.com/hanachi-ap/qmk_firmware/tree/willow64
 
 
 - QMk FirmWare binary files.
@@ -32,4 +30,5 @@ Click here for [Introductory article about Willow 64](https://coal.hatenablog.co
 
 ### VIA json file
 
-  - [Download](./VIA-willow64.json)
+  - [VIA-wllow64.json](https://github.com/hanachi-ap/willow64-doc/releases/download/releae01/VIA-wllow64.json)
+  
