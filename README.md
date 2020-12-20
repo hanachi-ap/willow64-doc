@@ -2,7 +2,7 @@
 
 ## About Willow64 keyboaed
 
-Willow64 is an ergonomic self-made keyboard.
+The Willow64 is a split-type self-made keyboard featuring a key arrangement that gently fits natural finger movements.
 
   <img src="img/img00.jpg" alt="Willow64" title="willow64 keyboard">
 
