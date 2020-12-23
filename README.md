@@ -27,11 +27,16 @@ Detailed article - [Introductory about Willow 64](https://coal.hatenablog.com/en
 
   - [Default keymap (VIA enabled)](https://github.com/hanachi-ap/qmk_firmware/releases/download/rev02-1/willow64_rev2_default.hex)
 
+    -  [Description about default keymap](./default-keymap.md)
+
+
   - [Test keymap](https://github.com/hanachi-ap/qmk_firmware/releases/download/rev02-1/willow64_rev2_buildtest.hex)
 
   - [Author's custom keymap](https://github.com/hanachi-ap/qmk_firmware/releases/download/rev02-1/willow64_rev2_hanachi_custom.hex)
 
+
 #### VIA json file
 
   - [VIA-wllow64.json](https://github.com/hanachi-ap/willow64-doc/releases/download/releae01/VIA-wllow64.json)
-  
+
+
