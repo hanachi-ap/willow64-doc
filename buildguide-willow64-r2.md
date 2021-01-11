@@ -48,7 +48,7 @@
 
 組み立てを始める前に本書をよくお読みいただき全体をご理解してから作業に着手することをお勧めします。
 
-  > 対象機種:  Willow64 Assemly kit (PCB Rev.2  model SPA-S1)
+  > 対象機種:  Willow64 Assemly kit (PCB Rev.2.2  model SPA-2)
 #### 想定するユーザスキル
 - パソコン操作 (必須)
 
