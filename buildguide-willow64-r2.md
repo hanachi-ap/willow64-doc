@@ -308,10 +308,10 @@ NOTE
 - ProMicro側のピンヘッダを全てはんだ付けします。
 
 -  ProMicroをマスキングテープ等でしっかり固定し、PCBの表側に飛び出したピンをニッパーでカットします。
-  <img src="img/img15.jpg" alt="PCB" title="PCB">
+  <img src="img/img15.JPG" alt="PCB" title="PCB">
 
 -  PCBの表側からピンソケットをはんだ付けします
-  <img src="img/img16.jpg" alt="PCB" title="PCB">
+  <img src="img/img16.JPG" alt="PCB" title="PCB">
 
 
 ### 3.TRRSジャックの取り付け
