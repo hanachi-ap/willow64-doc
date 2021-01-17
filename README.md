@@ -41,7 +41,8 @@ Detailed article - [Introductory about Willow 64](https://coal.hatenablog.com/en
 
 ## Willow Layout
 
-Willow Layout is opened under CC for the development of the keyboard community.
+Willow Layout is open for the community to grow.
+It is available under the Creative Commons license.
 
  [Willow Layout (PDF)](https://github.com/hanachi-ap/willow64-doc/blob/main/img/willow_layout_v1.pdf)  CC BY-SA 4.0 by Hanachi.
 
