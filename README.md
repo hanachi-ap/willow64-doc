@@ -39,4 +39,15 @@ Detailed article - [Introductory about Willow 64](https://coal.hatenablog.com/en
 
   - [VIA-wllow64.json](https://github.com/hanachi-ap/willow64-doc/releases/download/releae01/VIA-wllow64.json)
 
+## Willow Layout
+
+Willow Layout is opened under CC for the development of the keyboard community.
+
+ [Willow Layout (PDF)](https://github.com/hanachi-ap/willow64-doc/blob/main/img/willow_layout_v1.pdf)  CC BY-SA 4.0 by Hanachi.
+
+- For checking the layout before purchasing a product.
+- For your new product development.
+- For various research.
+
+Feedback to the author would be a pleasure.
 
