@@ -295,7 +295,7 @@ NOTE
 
   左右2列づつホールが並んでいますが、右側の列(黒い枠線で囲ってある側)を使用します。
   (左側の列のホールは将来の拡張用で現時点では動作しません)
-  <img src="img/img17.JPG" alt="PCB" title="PCB">
+  <img src="img/img17.jpg" alt="PCB" title="PCB">
 
 
 
