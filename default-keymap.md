@@ -31,7 +31,7 @@
    - https://github.com/the-via/releases/releases/tag/v1.3.1
   
 - VIA config file for willow64
-  - https://github.com/hanachi-ap/willow64-doc/releases/download/releae01/VIA-wllow64.json
+  - https://github.com/hanachi-ap/willow64-doc/releases/download/releae01/VIA_keymap_wllow64.json
 
 see also [ （初心者編）VIAを使ってキーマップを書き換えよう](https://salicylic-acid3.hatenablog.com/entry/via-manual)
 
