@@ -24,19 +24,20 @@ Willow64の紹介記事 - [自作キーボード Willow 64を作った話](https
 
 #### QMK Firmware バイナリファイル
 
-  - [デフォルトキーマップ (VIA対応)](https://github.com/hanachi-ap/qmk_firmware/releases/download/rev02-1/willow_willow64_via_default.hex)
+  - [デフォルトキーマップ (VIA対応)](https://github.com/hanachi-ap/willow64-doc/releases/download/rev2.3.1/willow_willow64_via_default.hex)
+
 
     -  [デフォルトキーマップの説明](./default-keymap.md)
 
 
-  - [テスト用キーマップ](https://github.com/hanachi-ap/qmk_firmware/releases/download/rev02-1/willow_willow64_buildtest.hex)
+  - [テスト用キーマップ](https://github.com/hanachi-ap/willow64-doc/releases/download/rev2.3.1/willow_willow64_buildtest.hex)
 
-  - [作者常用のキーマップ](https://github.com/hanachi-ap/qmk_firmware/releases/download/rev02-1/willow_willow64_via_hanachi.hex)
 
+  - [作者常用のキーマップ](https://github.com/hanachi-ap/willow64-doc/releases/download/rev2.3.1/willow_willow64_via_hanachi.hex)
 
 #### VIA jsonファイル
 
-  - [VIA-wllow64.json](https://github.com/hanachi-ap/willow64-doc/releases/download/releae01/VIA_keymap_wllow64.json)
+  - [VIA-wllow64.json](https://github.com/hanachi-ap/willow64-doc/releases/download/rev2.3.1/VIA_keymap_wllow64.json)
 
 VIA対応のファームウェアを利用すると、GUIを使ってキーマップを簡単に変更できるようになります。
 VIAの利用方法は下記の記事が参考になります。

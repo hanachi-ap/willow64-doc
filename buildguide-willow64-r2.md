@@ -248,9 +248,9 @@
 
    https://github.com/hanachi-ap/willow64-doc
 
-    - [default keymap](https://github.com/hanachi-ap/qmk_firmware/releases/download/rev02-1/willow64_rev2_default.hex)
-    - [組立時のテスト用keymap](https://github.com/hanachi-ap/qmk_firmware/releases/download/rev02-1/willow64_rev2_buildtest.hex)
-    - [作者常用のおすすめ](https://github.com/hanachi-ap/qmk_firmware/releases/download/rev02-1/willow64_rev2_hanachi_custom.hex)
+    - [default keymap](https://github.com/hanachi-ap/willow64-doc/releases/download/rev2.3.1/willow_willow64_via_default.hex)
+    - [組立時のテスト用keymap](https://github.com/hanachi-ap/willow64-doc/releases/download/rev2.3.1/willow_willow64_buildtest.hex)
+    - [作者常用のおすすめ](https://github.com/hanachi-ap/willow64-doc/releases/download/rev2.3.1/willow_willow64_via_hanachi.hex)
 
 ## 組み立て手順
 - 組み立て手順のインデックス
@@ -465,13 +465,12 @@ NOTE
   <img src="img/img14.jpg" alt="PCB" title="PCB">
 
 
-
 以上で組み立ては完成です。
 ### 14.本稼働用のファームウェアの書き込み
 
 下記の作業を左右のキーボードそれぞれに対して行います。
 
-- PC側でQMK Toolboxを起動し、本番用ファームウェア(willow64_rev2_default.hex)をオープンします。
+- PC側でQMK Toolboxを起動し、本番用ファームウェアをオープンします。
 - QMK ToolboxのAuto-Flashをチェックします
 - USBケーブルを接続します。
 - リセットスイッチを押してファームウェアを書き込みます。
