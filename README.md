@@ -1,4 +1,5 @@
 # willow64-doc
+ In Japanese docments: [日本語での説明はこちら](README_JP.md)
 
 ## About Willow64 keyboard
 
